@@ -3,12 +3,12 @@
 #Manas
 #Date : 19 May
 
-#This Script covers the if if..else statements and a simple for loop
+#This Script covers the if..else statements and a simple for loop
 #Version : v1
 
-a=4		#no space to be given while assigning variables
+a=4						#no space to be given while assigning variables
 b=10
-if [ $a -gt $b ]		#'$' indicates variable and '-gt' indicates numeric comparision
+if [ $a -gt $b ]				#'$' indicates variable and '-gt' indicates numeric comparision
 then
 	echo "a is greater than b"		#'echo' similar to SOPln/printf...etc
 else
