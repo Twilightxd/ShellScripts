@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#Manas
+#iTwili8-Manas
 #Date : 19 May
 
 #This Script covers the if..else statements and a simple for loop
