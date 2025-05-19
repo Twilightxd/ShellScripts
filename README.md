@@ -11,3 +11,4 @@ A collection of beginner-to-practical Bash scripts I’m learning and building a
 - `serviceChecker.sh` – Check if a service is running
 - `batchRenamer.sh` – Rename files in bulk
 - `simpleMenu.sh` – A simple interactive CLI menu
+- `simpleCalculator.sh` - A simple executable calculator
