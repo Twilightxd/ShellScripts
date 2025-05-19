@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#Manas
+#iTwili8-Manas
 #Date : 19 May
 
 #This Script outputs the node health
@@ -11,7 +11,7 @@ free -g
 nproc
 
 
-#Now revising the same commands where i manually input the commands 
+#Now the same commands where i manually input the details about the commands
 echo "Print Memory"
 df -h
 echo "Print CPU"
