@@ -4,7 +4,7 @@ A collection of beginner-to-practical Bash scripts I’m learning and building a
 
 ### Scripts Included
 - `nodeHealth.sh` – Show memory, CPU, and disk
-- `basicLooping.sh` – `if` and `for` loop example
+- `looping1.sh` – `if` and `for` loop example
 - `userInput.sh` – Basic user input
 - `fileChecker.sh` – Check if file exists
 - `backupScript.sh` – Backup directory
