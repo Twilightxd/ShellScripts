@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#Manas
+#iTwili8-Manas
 #Date : 19 May
 
 #This script takes input from user and prints it
