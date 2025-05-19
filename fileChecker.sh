@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#Manas
+#iTwili8-Manas
 #Date : 19 May
 
 #This script checks if a file ecists in a system
