@@ -60,22 +60,26 @@ or use -- chmod 755 aws_resource_list.sh -- depending on your required permissio
 
 ---
 
-# 🧠 Learning Purpose
+## 🧠 Learning Purpose
 
 This project is designed to help:
-
 - New DevOps learners practice shell scripting
 - Understand AWS CLI usage by doing
 - Build practical GitHub projects for portfolios
 
-# 📁 Project Structure
+---
 
-aws-resource-lister-cli/
-│  <br>
-├── aws_resource_list.sh       # 🧾 The main shell script  <br>
-├── README.md                  # 📘 This file!   <br>
+## 📁 Project Structure
 
-# 👏 Credits
+```plaintext
+aws-resource-lister/
+├── aws_resource_list.sh      # Main shell script to list AWS resources
+└── README.md                 # Project documentation
+```
+
+---
+
+## 👏 Credits
 
 Originally created by Abhishek Veeramalla (Source: https://youtu.be/8nx_RLaX5gE?si=OOK0eKKd_XchJ3fM) <br>
 Edited, explained, and improved by Twilightxd
