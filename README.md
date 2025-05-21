@@ -14,4 +14,4 @@ A collection of beginner-to-practical Bash scripts I’m learning and building a
 - `simpleCalculator.sh` - A simple executable calculator
 
 ### Projects Included
-- aws-resource-lister-cli - Uses AWS CLI to list various AWS resources in a given region
+- `aws-resource-lister-cli` - Uses AWS CLI to list various AWS resources in a given region
