@@ -12,6 +12,8 @@ A collection of beginner-to-practical Bash scripts I’m learning and building a
 - `batchRenamer.sh` – Rename files in bulk
 - `simpleMenu.sh` – A simple interactive CLI menu
 - `simpleCalculator.sh` - A simple executable calculator
+- `weather.sh` - A simple weather forecast of desired city
 
 ### Projects Included
 - `aws-resource-lister-cli` - Uses AWS CLI to list various AWS resources in a given region
+- `list-read-access-users` - GitHub Collaborators Fetcher
