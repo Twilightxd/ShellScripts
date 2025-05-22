@@ -18,7 +18,7 @@
 # Example:
 #	export username=iTwili8_Manas
 #	export token=ghp_12345abcdeTokenHere
-#	./list_read_access_users.sh iTwili9_Manas MyGitCollabRepo
+#	./list_read_access_users.sh iTwili8_Manas MyGitCollabRepo
 ###############################################################################################################################
 
 
